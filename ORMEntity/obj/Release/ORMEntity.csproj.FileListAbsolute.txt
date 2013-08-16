@@ -1,0 +1,7 @@
+F:\新项目文档\试验管理主窗体\ORMEntity\ORMEntity\obj\Release\ResolveAssemblyReference.cache
+F:\新项目文档\试验管理主窗体\ORMEntity\ORMEntity\bin\Release\ORMEntity.dll
+F:\新项目文档\试验管理主窗体\ORMEntity\ORMEntity\bin\Release\ORMEntity.pdb
+F:\新项目文档\试验管理主窗体\ORMEntity\ORMEntity\obj\Release\ORMEntity.dll
+F:\新项目文档\试验管理主窗体\ORMEntity\ORMEntity\obj\Release\ORMEntity.pdb
+F:\新项目文档\试验管理主窗体\NHB\NHB\Dll\ORMEntity.dll
+F:\新项目文档\试验管理主窗体\NHB\NHB\Dll\ORMEntity.pdb
